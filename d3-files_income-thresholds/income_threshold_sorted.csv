@@ -1,0 +1,129 @@
+GEO,indicator,Value
+Romania,median_income,2315
+Bulgaria,median_income,3332
+Hungary,median_income,4556
+Lithuania,median_income,5180
+Croatia,median_income,5453
+Poland,median_income,5556
+Latvia,median_income,5828
+Slovakia,median_income,6930
+Czech Republic,median_income,7423
+Greece,median_income,7520
+Estonia,median_income,7889
+Portugal,median_income,8435
+Slovenia,median_income,12332
+Spain,median_income,13352
+Malta,median_income,13493
+Cyprus,median_income,13793
+Italy,median_income,15846
+European Union,median_income,16153
+Germany,median_income,20668
+United Kingdom,median_income,20945
+Netherlands,median_income,21292
+France,median_income,21415
+Belgium,median_income,21654
+Ireland,median_income,21688
+Austria,median_income,23260
+Iceland,median_income,23696
+Finland,median_income,23763
+Sweden,median_income,26640
+Denmark,median_income,28364
+Luxembourg,median_income,35270
+Switzerland,median_income,39586
+Norway,median_income,41483
+Romania,poverty_threshold,1389
+Bulgaria,poverty_threshold,1999
+Hungary,poverty_threshold,2734
+Lithuania,poverty_threshold,3108
+Croatia,poverty_threshold,3272
+Poland,poverty_threshold,3334
+Latvia,poverty_threshold,3497
+Slovakia,poverty_threshold,4158
+Czech Republic,poverty_threshold,4454
+Greece,poverty_threshold,4512
+Estonia,poverty_threshold,4733
+Portugal,poverty_threshold,5061
+Slovenia,poverty_threshold,7399
+Spain,poverty_threshold,8011
+Malta,poverty_threshold,8096
+Cyprus,poverty_threshold,8276
+Italy,poverty_threshold,9508
+European Union,poverty_threshold,9692
+Germany,poverty_threshold,12401
+United Kingdom,poverty_threshold,12567
+Netherlands,poverty_threshold,12775
+France,poverty_threshold,12849
+Belgium,poverty_threshold,12992
+Ireland,poverty_threshold,13013
+Austria,poverty_threshold,13956
+Iceland,poverty_threshold,14218
+Finland,poverty_threshold,14258
+Sweden,poverty_threshold,15984
+Denmark,poverty_threshold,17018
+Luxembourg,poverty_threshold,21162
+Switzerland,poverty_threshold,23752
+Norway,poverty_threshold,24890
+Romania,middle_class_threshold,1621
+Bulgaria,middle_class_threshold,2332
+Hungary,middle_class_threshold,3189
+Lithuania,middle_class_threshold,3626
+Croatia,middle_class_threshold,3817
+Poland,middle_class_threshold,3889
+Latvia,middle_class_threshold,4080
+Slovakia,middle_class_threshold,4851
+Czech Republic,middle_class_threshold,5196
+Greece,middle_class_threshold,5264
+Estonia,middle_class_threshold,5522
+Portugal,middle_class_threshold,5905
+Slovenia,middle_class_threshold,8632
+Spain,middle_class_threshold,9346
+Malta,middle_class_threshold,9445
+Cyprus,middle_class_threshold,9655
+Italy,middle_class_threshold,11092
+European Union,middle_class_threshold,11307
+Germany,middle_class_threshold,14468
+United Kingdom,middle_class_threshold,14662
+Netherlands,middle_class_threshold,14904
+France,middle_class_threshold,14991
+Belgium,middle_class_threshold,15158
+Ireland,middle_class_threshold,15182
+Austria,middle_class_threshold,16282
+Iceland,middle_class_threshold,16587
+Finland,middle_class_threshold,16634
+Sweden,middle_class_threshold,18648
+Denmark,middle_class_threshold,19855
+Luxembourg,middle_class_threshold,24689
+Switzerland,middle_class_threshold,27710
+Norway,middle_class_threshold,29038
+Romania,upper_class_threshold,3473
+Bulgaria,upper_class_threshold,4998
+Hungary,upper_class_threshold,6834
+Lithuania,upper_class_threshold,7770
+Croatia,upper_class_threshold,8180
+Poland,upper_class_threshold,8334
+Latvia,upper_class_threshold,8742
+Slovakia,upper_class_threshold,10395
+Czech Republic,upper_class_threshold,11135
+Greece,upper_class_threshold,11280
+Estonia,upper_class_threshold,11834
+Portugal,upper_class_threshold,12653
+Slovenia,upper_class_threshold,18498
+Spain,upper_class_threshold,20028
+Malta,upper_class_threshold,20240
+Cyprus,upper_class_threshold,20690
+Italy,upper_class_threshold,23769
+European Union,upper_class_threshold,24230
+Germany,upper_class_threshold,31002
+United Kingdom,upper_class_threshold,31418
+Netherlands,upper_class_threshold,31938
+France,upper_class_threshold,32123
+Belgium,upper_class_threshold,32481
+Ireland,upper_class_threshold,32532
+Austria,upper_class_threshold,34890
+Iceland,upper_class_threshold,35544
+Finland,upper_class_threshold,35645
+Sweden,upper_class_threshold,39960
+Denmark,upper_class_threshold,42546
+Luxembourg,upper_class_threshold,52905
+Switzerland,upper_class_threshold,59379
+Norway,upper_class_threshold,62225
