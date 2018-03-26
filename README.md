@@ -16,7 +16,7 @@ Eurostat defines the **Disposable net income** like this: "(It's) is the total g
 [More information can be found here](http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Equivalised_disposable_income)
 
 ### Methodology
-Based on the median income we [calculated the thresholds according to the above definitions with Python](QuantifyEurope_Income-Thresholds.ipynb). Next, we sorted and exported that data as a [new csv file](income_threshold_sorted.csv) and visualized it with help [d3.js](d3.js files). Finishing touches to the design were implemented with Adobe Illustrator.
+Based on the median income we [calculated the thresholds according to the above definitions with Python](QuantifyEurope_Income-Thresholds.ipynb). Next, we sorted and exported that data as a [new csv file](income_threshold_sorted.csv) and visualized it with help [d3.js](d3-files_income-thresholds/). Finishing touches to the design were implemented with Adobe Illustrator.
 
 ### Output
 
